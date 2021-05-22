@@ -164,14 +164,15 @@ df.to_csv('result.csv')
 
 
 Prochaines rencontres, en appairant par rang (*Système suisse*) :
-(Poivre, Bearnaise)
-(Moutarde, Barbecue)
-(Curry, Mayonnaise)
-(Samourai, Blanche)
-(Aioli, Harissa)
-(Tartare, Algérienne)
-(Andalouse, Hollandaise)
-(Cocktail, ketchup)
+
+- (Poivre, Bearnaise)
+- (Moutarde, Barbecue)
+- (Curry, Mayonnaise)
+- (Samourai, Blanche)
+- (Aioli, Harissa)
+- (Tartare, Algérienne)
+- (Andalouse, Hollandaise)
+- (Cocktail, ketchup)
 
 |             | algerienne | curry | cocktail | moutarde | bearnaise | ketchup | hollandaise | barbecue | samourai | andalouse | tartare | aioli | harissa | poivre | blanche | mayonnaise |
 | ----------- | ---------- | ----- | -------- | -------- | --------- | ------- | ----------- | -------- | -------- | --------- | ------- | ----- | ------- | ------ | ------- | ---------- |
